@@ -8,25 +8,25 @@ This research project is about looking into how the influenza virus is constantl
 
 # Outline:
 Introduction:
-  Background information about the virus
-    Different types and strains of the influenza virus
-    How are flu vaccines made
+  -Background information about the virus
+    --Different types and strains of the influenza virus
+    --How are flu vaccines made
 
 Methods:
-  MAFFT: Multiple Sequence Alignment
-    Created a fasta file with representative samples of different influenza strains and use MAFFT to see which parts of the hemagglutinin protein strains are more conserved
-      These sequences were taken from the influenza reference database (IRD)
-  ngphylogeny: Phylogenetic tree
-    Use the tree to visualize the evolution of the different strains
-  Mega: 
-    Estimate subsitution matrix and find best model of evoluton
-      Understand how the best model of evolution is then used to predict new influenza strains
+  -MAFFT: Multiple Sequence Alignment
+    --Created a fasta file with representative samples of different influenza strains and use MAFFT to see which parts of the hemagglutinin protein strains are more conserved
+      ---These sequences were taken from the influenza reference database (IRD)
+  -ngphylogeny: Phylogenetic tree
+    --Use the tree to visualize the evolution of the different strains
+  -Mega: 
+    --Estimate subsitution matrix and find best model of evoluton
+      ---Understand how the best model of evolution is then used to predict new influenza strains
 
 Results: 
-  Multiple Sequence Alignment 
-  Phylogenetic Tree
-  Subsitution Matrix
-  Model of evolution
+  -Multiple Sequence Alignment 
+  -Phylogenetic Tree
+  -Subsitution Matrix
+  -Model of evolution
 
 
 ### Markdown
