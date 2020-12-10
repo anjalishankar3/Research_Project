@@ -1,8 +1,33 @@
-## Welcome to GitHub Pages
+## New Year, New Flu Vaccine
 
-You can use the [editor on GitHub](https://github.com/anjalishankar3/Research_Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Author:
+Anjali Shankar
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Abstract:
+This research project is about looking into how the influenza virus is constantly changing and how that leads to a new flu vaccine each year. The influenza virus undergoes evolution often due to the antigenic drift and shift in their surface glycoproteins, specifically the hemagglutinin and neuraminidase surface proteins. In this project, I will look at how the main strains of influenza have evolved from each other by making a tree using representative sequences of hemagglutinin and neuraminidase from each variety of influenza. The main question that is going to be addressed is how we can use the information about how influenza changes to improve influenza vaccines. 
+
+# Outline:
+Introduction:
+  Background information about the virus
+    Different types and strains of the influenza virus
+    How are flu vaccines made
+
+Methods:
+  MAFFT: Multiple Sequence Alignment
+    Created a fasta file with representative samples of different influenza strains and use MAFFT to see which parts of the hemagglutinin protein strains are more conserved
+      These sequences were taken from the influenza reference database (IRD)
+  ngphylogeny: Phylogenetic tree
+    Use the tree to visualize the evolution of the different strains
+  Mega: 
+    Estimate subsitution matrix and find best model of evoluton
+      Understand how the best model of evolution is then used to predict new influenza strains
+
+Results: 
+  Multiple Sequence Alignment 
+  Phylogenetic Tree
+  Subsitution Matrix
+  Model of evolution
+
 
 ### Markdown
 
